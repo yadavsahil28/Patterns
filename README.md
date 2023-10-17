@@ -1,5 +1,5 @@
 # Patterns
-This repositorie contains several patterns that can improve programming skills and logical thinking.
+This repository contains several patterns that can improve programming skills and logical thinking.
 1) Half Pyramid
 2) Inverted Half Pyramid
 3) Hollow Inverted Half Pyramid
